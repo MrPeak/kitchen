@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
+    <item>
+      <enclosure url="https://gw.alipayobjects.com/os/kitchen/kitchen-2.1.0.zip" sparkle:version="2.1.0" />
+    </item>
+
   </channel>
 </rss>
