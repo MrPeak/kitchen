@@ -2,6 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <item>
+      <enclosure url="https://gw.alipayobjects.com/os/kitchen/a445c679-fc93-4dd9-869e-0dda2a4792c6/kitchen-2.1.2.zip" sparkle:version="2.1.2" />
+    </item>
+
+    <item>
+      <enclosure url="https://gw.alipayobjects.com/os/kitchen/b51de144-29a4-4ced-880b-aff07146b320/kitchen-2.1.1.zip" sparkle:version="2.1.1" />
+    </item>
+
+    <item>
       <enclosure url="https://gw.alipayobjects.com/os/kitchen/kitchen-2.1.0.zip" sparkle:version="2.1.0" />
     </item>
 
